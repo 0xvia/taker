@@ -1377,3 +1377,15 @@
 3/10/2025 | 8:16:49 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
 3/10/2025 | 8:16:50 AM | INFO | Start process for wallet 0xE0e01474a05bB8105444e0220E5ad52c98589c77 
 3/10/2025 | 8:16:51 AM | ERROR | Failed to retrieve nonce for wallet: 0xE0e01474a05bB8105444e0220E5ad52c98589c77 
+3/10/2025 | 12:30:03 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+3/10/2025 | 12:30:03 PM | INFO | Start process for wallet 0xE0e01474a05bB8105444e0220E5ad52c98589c77 
+3/10/2025 | 12:30:04 PM | INFO | Trying To Login for wallet: 0xE0e01474a05bB8105444e0220E5ad52c98589c77 
+3/10/2025 | 12:30:05 PM | INFO | Login successful... 
+3/10/2025 | 12:30:05 PM | INFO | Trying to check user info... 
+3/10/2025 | 12:30:06 PM | INFO | User ID: 28226246 | Twitter: @deviayrm | Total Points: 528000 
+3/10/2025 | 12:30:06 PM | INFO | Trying to check user miner status... 
+3/10/2025 | 12:30:06 PM | INFO | Last mining time: 3/7/2025, 8:18:57 AM
+3/10/2025 | 12:30:06 PM | INFO | Trying to start Mining for wallet: 0xE0e01474a05bB8105444e0220E5ad52c98589c77 
+3/10/2025 | 12:30:07 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+3/10/2025 | 12:30:07 PM | INFO | Trying to activate mining on-chain for wallet: 0xE0e01474a05bB8105444e0220E5ad52c98589c77 
+3/10/2025 | 12:30:19 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xf4e58313a8fd05259ef988194a89386e7f7d53ddd0a836d521d5518248b42310 

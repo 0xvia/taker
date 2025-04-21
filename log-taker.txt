@@ -3738,3 +3738,16 @@
 4/20/2025 | 8:15:39 PM | INFO | Trying to check user miner status... 
 4/20/2025 | 8:15:41 PM | INFO | Last mining time: 4/20/2025, 4:19:24 PM
 4/20/2025 | 8:15:41 PM | WARN | Mining already started, next mining time is: 4/21/2025, 4:19:24 PM
+4/21/2025 | 1:16:44 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/21/2025 | 1:16:44 AM | INFO | Start process for wallet 0xE0e01474a05bB8105444e0220E5ad52c98589c77 
+4/21/2025 | 1:16:45 AM | INFO | Trying To Login for wallet: 0xE0e01474a05bB8105444e0220E5ad52c98589c77 
+4/21/2025 | 1:16:45 AM | INFO | Login successful... 
+4/21/2025 | 1:16:45 AM | INFO | Trying to check user info... 
+4/21/2025 | 1:16:46 AM | INFO | User ID: 28226246 | Twitter: @deviayrm | Total Points: 1440000 
+4/21/2025 | 1:16:46 AM | INFO | Trying to check user miner status... 
+4/21/2025 | 1:17:00 AM | INFO | Last mining time: 4/19/2025, 12:27:48 PM
+4/21/2025 | 1:17:00 AM | INFO | Trying to start Mining for wallet: 0xE0e01474a05bB8105444e0220E5ad52c98589c77 
+4/21/2025 | 1:17:02 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+4/21/2025 | 1:17:02 AM | INFO | Trying to activate mining on-chain for wallet: 0xE0e01474a05bB8105444e0220E5ad52c98589c77 
+4/21/2025 | 1:17:02 AM | ERROR | Activate Mining Error: {"code":"ECONNRESET","path":null,"host":"rpc-mainnet.taker.xyz","port":443}
+4/21/2025 | 1:17:02 AM | ERROR | Wallet already start mine today or wallet dont have taker balance 

@@ -5360,3 +5360,15 @@
 5/19/2025 | 8:23:23 AM | INFO | Trying to check user miner status... 
 5/19/2025 | 8:23:24 AM | INFO | Last mining time: 5/18/2025, 12:29:09 PM
 5/19/2025 | 8:23:24 AM | WARN | Mining already started, next mining time is: 5/19/2025, 12:29:09 PM
+5/19/2025 | 12:33:31 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/19/2025 | 12:33:31 PM | INFO | Start process for wallet 0xE0e01474a05bB8105444e0220E5ad52c98589c77 
+5/19/2025 | 12:33:32 PM | INFO | Trying To Login for wallet: 0xE0e01474a05bB8105444e0220E5ad52c98589c77 
+5/19/2025 | 12:33:32 PM | INFO | Login successful... 
+5/19/2025 | 12:33:32 PM | INFO | Trying to check user info... 
+5/19/2025 | 12:33:33 PM | INFO | User ID: 28226246 | Twitter: @deviayrm | Total Points: 2040000 
+5/19/2025 | 12:33:33 PM | INFO | Trying to check user miner status... 
+5/19/2025 | 12:33:34 PM | INFO | Last mining time: 5/18/2025, 12:29:09 PM
+5/19/2025 | 12:33:34 PM | INFO | Trying to start Mining for wallet: 0xE0e01474a05bB8105444e0220E5ad52c98589c77 
+5/19/2025 | 12:33:35 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+5/19/2025 | 12:33:35 PM | INFO | Trying to activate mining on-chain for wallet: 0xE0e01474a05bB8105444e0220E5ad52c98589c77 
+5/19/2025 | 12:33:46 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xd9e5146fb336c41c3dfb68f2d3a26501d9061b334218386b33ac562af6e5041c 
